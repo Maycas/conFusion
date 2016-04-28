@@ -1,0 +1,4 @@
+.tmp
+Gruntfile.js
+/dist
+/node_modules
